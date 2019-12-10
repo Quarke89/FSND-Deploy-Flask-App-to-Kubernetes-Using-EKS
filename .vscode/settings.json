@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "/Users/vish/Projects/ND_full_stack/FSND-Deploy-Flask-App-to-Kubernetes-Using-EKS/env/bin/python3",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
+}
